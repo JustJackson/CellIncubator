@@ -1,1 +1,1 @@
-# CellIncubator
+This code is for an Arduino Cell Incubator. Essentially, it uses cheap parts to create a variable homeostasis environment for the growth and culture of mamillian cells. Libraries, parts, and materials are listed within the central .ino. Total Cost is approximately $30.
